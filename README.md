@@ -9,15 +9,25 @@ The platform leverages modern data engineering practices including dimensional m
 ## Architecture
 
 Raw Walmart Sales Data
+
           ↓
+          
       Snowflake
+      
           ↓
+          
     dbt Transformations
+    
           ↓
+          
     Star Schema Model
+    
           ↓
+          
 Python Analytics & Reporting
+          
           ↓
+          
 Business Intelligence Insights
 
  ## Technology Stack
