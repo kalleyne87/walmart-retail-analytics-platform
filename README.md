@@ -61,15 +61,15 @@ Business Intelligence Insights
 
 ### Holiday Sales Impact Analysis
 Compared holiday and non-holiday sales performance across 45 stores to identify seasonal demand patterns and revenue opportunities.
-![Holiday Sales Impact]<img width="1402" height="701" alt="Screenshot 2026-04-30 at 10 36 44 PM" src="https://github.com/user-attachments/assets/a837d196-b038-47ed-9034-01a5709f375a" />
+<img width="1402" height="701" alt="Screenshot 2026-04-30 at 10 36 44 PM" src="https://github.com/user-attachments/assets/a837d196-b038-47ed-9034-01a5709f375a" />
 
 ### Markdown Effectiveness Analysis
 Evaluated promotional markdown strategies across multiple years to understand the relationship between discount programs and revenue generation.
-![Markdown Analysis]<img width="1541" height="717" alt="Screenshot 2026-04-30 at 10 40 02 PM" src="https://github.com/user-attachments/assets/40c6a663-0ce6-42fb-ab7c-66e26faa75b1" />
+<img width="1541" height="717" alt="Screenshot 2026-04-30 at 10 40 02 PM" src="https://github.com/user-attachments/assets/40c6a663-0ce6-42fb-ab7c-66e26faa75b1" />
 
 ### Store Size Performance Analysis
 Analyzed the relationship between store size and weekly sales performance to identify scaling trends and operational efficiencies.
-![Store Size Analysis]<img width="1541" height="791" alt="Screenshot 2026-04-30 at 10 38 23 PM" src="https://github.com/user-attachments/assets/f4259939-d5b2-47b5-a2b7-ffde583febf0" />
+<img width="1541" height="791" alt="Screenshot 2026-04-30 at 10 38 23 PM" src="https://github.com/user-attachments/assets/f4259939-d5b2-47b5-a2b7-ffde583febf0" />
 
 
 
