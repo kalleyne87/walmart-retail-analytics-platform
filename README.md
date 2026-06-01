@@ -1,10 +1,6 @@
-1. Install dependencies:
-   pip install snowflake-connector-python pandas matplotlib python-dotenv
+Walmart Retail Analytics Platform
+Overview
 
-2. Create a .env file with:
-   SNOWFLAKE_USER=
-   SNOWFLAKE_PASSWORD=
-   SNOWFLAKE_ACCOUNT=
+Built an end-to-end retail analytics platform using Snowflake, dbt, SQL, and Python to transform raw Walmart sales data into actionable business insights.
 
-3. Run:
-   python dbt/report.py
+The platform leverages modern data engineering practices including dimensional modeling, analytics engineering, and automated reporting to analyze store performance, sales trends, markdown effectiveness, and operational metrics.
