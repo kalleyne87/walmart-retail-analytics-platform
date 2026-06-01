@@ -9,15 +9,15 @@ The platform leverages modern data engineering practices, including dimensional 
 ## Architecture
 
 Raw Walmart Sales Data
-          ↓
-       Snowflake
-          ↓
- dbt Transformations
-          ↓
-  Star Schema Model
-          ↓
+↓
+Snowflake Data Warehouse
+↓
+dbt Transformations
+↓
+Star Schema Data Model
+↓
 Python Analytics & Reporting
-          ↓
+↓
 Business Intelligence Insights
 
 ## Technology Stack
@@ -71,6 +71,11 @@ Evaluated promotional markdown strategies across multiple years to understand th
 Analyzed the relationship between store size and weekly sales performance to identify scaling trends and operational efficiencies.
 <img width="1541" height="791" alt="Screenshot 2026-04-30 at 10 38 23 PM" src="https://github.com/user-attachments/assets/f4259939-d5b2-47b5-a2b7-ffde583febf0" />
 
+## Key Insights
 
-
+- Holiday periods consistently generated higher sales across most stores.
+- Larger stores generally produced higher weekly revenue, indicating a positive relationship between store size and sales performance.
+- Promotional markdown strategies demonstrated measurable impact on sales volume and customer demand.
+- Store performance varied significantly across locations, highlighting opportunities for targeted operational improvements.
+- Seasonal patterns influenced sales performance, supporting the importance of demand forecasting and inventory planning.
 
