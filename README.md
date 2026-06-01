@@ -53,11 +53,11 @@ Business Intelligence Insights
 
 ## Key Deliverables
 
-- Cloud data warehouse built in Snowflake
-- Analytics engineering transformations with dbt
-- Star schema implementation
+- Designed and implemented a cloud data warehouse in Snowflake
+- Developed analytics engineering transformations using dbt
+- Built a dimensional star schema data model
 - Automated reporting workflows using Python
-- Business intelligence reporting and visualization
+- Delivered business intelligence reporting and visualization solutions
 
 ## Sample Reports
 
